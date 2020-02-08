@@ -1,0 +1,9 @@
+.hello {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  border-style: outset;
+  border-width: 5px;
+  border-color: #d36135;
+}
